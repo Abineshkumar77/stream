@@ -1,0 +1,10 @@
+streamlit
+matplotlib 
+serial 
+pyserial 
+numpy 
+sqlalchemy 
+neurokit2 
+streamlit_option_menu 
+pytz 
+pandas
